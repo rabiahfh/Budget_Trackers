@@ -26,7 +26,7 @@ With this application an avid traveller is able to track their withdrawals and d
 PHOTO OF MY ASSIGNMENT:
 
 
-<br>![photo of my assignment](budget_photo.PNG)
+<br>![photo of my assignment](buget_photo.PNG)
 
 
 [link to my project](https://budgettrackerrh.herokuapp.com/)
@@ -38,26 +38,24 @@ PHOTO OF MY ASSIGNMENT:
   
 * npm i
 * npm start
-  
+* heroku open
 
     
  ## Usage
  
 
- This  FRONT END USER application allows users to:
+ This  Online/Offline Budget Tracker application allows users to:
 
-  * Add exercises to the most recent workout plan.
+  Offline Functionality:
 
-  * Add new exercises to a new workout plan.
+  * Enter deposits offline
 
-  * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
+  * Enter expenses offline
 
-  * View the total duration of each workout from the past seven workouts on the `stats` page.
+When brought back online:
 
-<br>
-PLEASE SEE THE DEMO BELOW:
+  * Offline entries should be added to tracker.
 
- ![Demo](workout_demo.gif) 
 
 <br>
 LANGUAGES USED ARE:
@@ -70,15 +68,7 @@ FRONT END:
 
 BACKEND:
 - JAVASCRIPT
-- NODE.JS
-- MONGODB
-- MONGODB:ATLAS
 - HEROKU
-
-
-
-
-
 
  ## License
  To view the license click [here](https://choosealicense.com/licenses/mit/)
