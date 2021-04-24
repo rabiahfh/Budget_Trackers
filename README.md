@@ -69,6 +69,8 @@ FRONT END:
 BACKEND:
 - JAVASCRIPT
 - HEROKU
+- NODE.JS
+- MONGODB
 
  ## License
  To view the license click [here](https://choosealicense.com/licenses/mit/)
